@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sciaticatreatment.netlify.app/sitemap.xml
